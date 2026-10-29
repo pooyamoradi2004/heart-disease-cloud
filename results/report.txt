@@ -1,0 +1,23 @@
+HEART DISEASE CLASSIFICATION PROJECT
+Algorithm: Random Forest
+Dataset: UCI Cleveland Heart Disease
+
+Original rows: 303
+Clean rows: 297
+Training samples: 237
+Testing samples: 60
+
+Accuracy:  0.8500
+Precision: 0.8800
+Recall:    0.7857
+F1-score:  0.8302
+
+CLASSIFICATION REPORT
+                     precision    recall  f1-score   support
+
+No reported disease       0.83      0.91      0.87        32
+   Disease reported       0.88      0.79      0.83        28
+
+           accuracy                           0.85        60
+          macro avg       0.85      0.85      0.85        60
+       weighted avg       0.85      0.85      0.85        60
